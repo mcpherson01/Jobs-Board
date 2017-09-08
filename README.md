@@ -1,24 +1,18 @@
-# README
+# Easy ROR Job Board
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
+Self Explanatory...
 
 * Configuration
+  Database = SQL
+  Ubuntu 16.04
+  Ruby 2.4.0p0
+  Rails 5.1.4
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
+* System dependencies
+  gem 'simple_form'
+  gem 'kaminari'
+  
 * Deployment instructions
-
-* ...
+  In Application Directory, open terminal
+  Type rails -s
+  Go to http://localhost:3000/
